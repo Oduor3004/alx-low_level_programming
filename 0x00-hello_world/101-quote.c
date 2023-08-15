@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<unistd.h>
+
 /**
- * main - Entry point
+ * main - and that piece of art is useful
  *
- * Return: Always 1 (success)
+ * Return: Always 1 
  */
 int main(void)
 {
